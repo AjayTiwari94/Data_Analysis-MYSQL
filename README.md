@@ -139,5 +139,6 @@ All EDA queries are in **ExploratoryDataAnlysis.sql**. Major analyses include:
 ## License
 This repository is released under the MIT License. See `LICENSE` for details.
 
-**Author:** Ajay Tiwari
-B.Tech - Computer Science and Engineering (Artificial Intelligence): 2022-26
+## Author: 
+- Ajay Tiwari
+- B.Tech - Computer Science and Engineering (Artificial Intelligence): 2022-26
