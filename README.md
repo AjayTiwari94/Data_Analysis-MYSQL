@@ -1,4 +1,4 @@
-# Data Analysis Using MySQL - Layoff Dataset
+# Layoff Trend and Workforce Analysis
 
 This repository contains the complete end-to-end **Data Cleaning** and **Exploratory Data Analysis (EDA)** workflow performed on a real-world **Layoff Dataset** using **MySQL**. All SQL scripts in this repository were written and executed by Ajay Tiwari.
 
